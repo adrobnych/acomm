@@ -1,3 +1,6 @@
+# setup: bundle install
+# run: bundle exec ruby mock_server.rb 
+
 require 'rubygems'
 require 'sinatra'
 require 'json'
