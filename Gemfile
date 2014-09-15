@@ -4,3 +4,4 @@ gem 'rake'
 # Add your dependencies here:
 gem 'cdq'
 gem'ruby-xcdm'
+gem 'bubble-wrap'
